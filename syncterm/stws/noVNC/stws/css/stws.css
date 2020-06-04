@@ -1,0 +1,22 @@
+
+#noVNC_control_bar .noVNC_logo {
+    font-size: 11px;
+}
+
+#noVNC_control_bar .noVNC_scroll {
+    padding-bottom: 6px;
+}
+
+.noVNC_logo {
+    color: #e0e0e0;
+}
+
+.noVNC_logo span {
+    color: darkcyan !important;
+}
+
+.tingle-modal {
+    background: rgba(0, 0, 0, .30);
+}
+
+
