@@ -2,7 +2,7 @@
 
 ## Description
 
-**stws** alows SyncTERM (BBS terminal program) to by accessible through a standard Web browser in a full screen mode. It also makes *Telnet BBS Guide* and *files downloaded from BBSes* available through the web interface in a full screen mode (recommended browser: Google Chrome).
+**stws** alows SyncTERM (BBS terminal program) to be accessible through a standard Web browser in a full screen mode. It also makes *Telnet BBS Guide* and *files downloaded from BBSes* available through the web interface in a full screen mode (recommended browser: Google Chrome).
 
 
 ## Usage
@@ -29,7 +29,7 @@ You can also use a password file:
 
 This video presents file downloading via telnet and SyncTERM Web Service:
 
-<img src="https://jm.iq.pl/bbs/video.png" width="480">
+<a href="https://www.youtube.com/watch?v=s6dyZOtdL5g"><img src="https://jm.iq.pl/bbs/video.png" width="480"></a>
 
 ## Built with
 
