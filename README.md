@@ -29,7 +29,7 @@ You can also use a password file:
 
 This video presents file downloading via telnet and SyncTERM Web Service:
 
-<a href="https://www.youtube.com/watch?v=s6dyZOtdL5g"><img src="https://jm.iq.pl/bbs/video.png" width="480"></a>
+<a href="https://www.youtube.com/watch?v=s6dyZOtdL5g"><img src="https://jm.iq.pl/bbs/video2.png" width="480"></a>
 
 ## Built with
 
