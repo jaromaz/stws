@@ -59,3 +59,4 @@ Jarosław Mazurkiewicz / **Jaromaz**
 This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 - see the LICENSE file for details. I recommend to
 check the licenses assigned to the individual components of this project.
 
+For more information please visit my website: [https://jm.iq.pl/bbs](https://jm.iq.pl/bbs).
