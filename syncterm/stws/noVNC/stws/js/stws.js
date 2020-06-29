@@ -1,4 +1,3 @@
-
     // SyncTerm BBS viewer as a Web Service
     // by Jaromaz https://jm.iq.pl
 
@@ -47,5 +46,4 @@
                     modal.open();
             })
         }
-
     });

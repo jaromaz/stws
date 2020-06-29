@@ -8,6 +8,7 @@
 # ------------------------------------ #
 
 
+
 # ---------- Builder ----------------- #
 
 FROM debian:10.4-slim as builder-stws
@@ -47,6 +48,8 @@ RUN patch noVNC/vnc.html < syncterm/stws.patch && \
     rm syncterm/stws.patch && \
     mkdir syncterm/stws/noVNC/files && \
     gzip -d syncterm/stws/bin/syncterm.gz
+
+
 
 
 
