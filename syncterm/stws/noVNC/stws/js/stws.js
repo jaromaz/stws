@@ -1,6 +1,5 @@
     // SyncTerm BBS viewer as a Web Service
     // by Jaromaz https://jm.iq.pl
-
     window.addEventListener("load", function(event) {
         var modalContent = "";
         var modal = new tingle.modal({
@@ -33,7 +32,6 @@
                             "if (!!this.contentDocument && this.contentDocument.referrer.indexOf('vnc.h') !== -1)\
                             this.contentDocument.body.style.fontFamily='Arial, Helvetica'");
                     }
-
                     ifr.setAttribute("src", src);
                     ifr.setAttribute("frameBorder", 0);
                     ifr.setAttribute("width", "100%");

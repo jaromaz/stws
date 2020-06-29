@@ -9,6 +9,7 @@
 
 
 
+
 # ---------- Builder ----------------- #
 
 FROM debian:10.4-slim as builder-stws
@@ -53,7 +54,9 @@ RUN patch noVNC/vnc.html < syncterm/stws.patch && \
 
 
 
+
 # -------- SyncTERM container -------- #
+
 
 FROM debian:10.4-slim
 
@@ -77,4 +80,5 @@ COPY --chown=syncterm:syncterm --from=builder-stws /tmp/syncterm /home/syncterm
 EXPOSE 6080
 
 ENTRYPOINT ["./stws/bin/entrypoint.sh"]
+
 
