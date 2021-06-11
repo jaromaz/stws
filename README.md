@@ -4,6 +4,11 @@
 
 **stws** alows SyncTERM (BBS terminal program) to be accessible through a standard Web browser in a full screen mode. It also makes *Telnet BBS Guide* and *files downloaded from BBSes* available through the web interface in a full screen mode (recommended browser: Google Chrome).
 
+## Demo
+
+This video presents file downloading via telnet and SyncTERM Web Service:
+
+<a href="https://www.youtube.com/watch?v=s6dyZOtdL5g"><img src="https://jm.iq.pl/bbs/video2.png" width="480"></a>
 
 ## Usage
 
@@ -24,12 +29,6 @@ To create your own password, run a container with the environment variable PASSW
 You can also use a password file:
 
     docker run --env-file ./passwd -d -p 6080:6080 jaromaz/stws
-
-## Demo
-
-This video presents file downloading via telnet and SyncTERM Web Service:
-
-<a href="https://www.youtube.com/watch?v=s6dyZOtdL5g"><img src="https://jm.iq.pl/bbs/video2.png" width="480"></a>
 
 ## Built with
 
